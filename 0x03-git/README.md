@@ -19,3 +19,4 @@
 15. Which files should and which files should not appear in your repo
 
 *This is a change for the readme file for update*
+Merge the branch with master
